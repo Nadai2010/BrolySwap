@@ -2,9 +2,10 @@
 <img alt="starknet logo" src="" width="600" >
   <h1 style="font-size: larger;">
     <img src="https://github.com/Nadai2010/Nadai-SHARP-Starknet/blob/master/im%C3%A1genes/Starknet.png" width="40">
-    <strong> MVP Técnico de Liquidez Concentrada en Starket - BrolySwap</strong> 
+    <strong> Liquidez Concentrada en Starknet - BrolySwap</strong> 
     <img src="https://github.com/Nadai2010/Nadai-SHARP-Starknet/blob/master/im%C3%A1genes/Starknet.png" width="40">
   </h1>
+  </div>
 
 ## Resumen:
 El MVP técnico propuesto es la implementación de Smart Contract que permitan un mercado de liquidez concentrada en la plataforma Starknet utilizando Cairo, un lenguaje específico de Starknet. BrolySwap es una iteración avanzada del popular protocolo de intercambio descentralizado BrolySwap que permite a los proveedores de liquidez concentrar sus fondos en rangos de precios específicos. La adopción de Starknet permitirá un alto rendimiento y una mayor escalabilidad para el protocolo.
